@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+.destacado {
+    color: white;
+    background-color: teal;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.normal {
+    color: black;
+    background-color: transparent;
+}
